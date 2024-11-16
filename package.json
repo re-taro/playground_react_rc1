@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "playground_react_rc1",
   "private": true,
   "scripts": {
     "build": "turbo build",
