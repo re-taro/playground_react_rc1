@@ -15,6 +15,221 @@ importers:
         specifier: 5.5.4
         version: 5.5.4
 
+  apps/26380-18:
+    dependencies:
+      react:
+        specifier: ^18.3.1
+        version: 18.3.1
+      react-dom:
+        specifier: ^18.3.1
+        version: 18.3.1(react@18.3.1)
+    devDependencies:
+      '@eslint/js':
+        specifier: ^9.13.0
+        version: 9.15.0
+      '@types/react':
+        specifier: ^18.3.12
+        version: 18.3.12
+      '@types/react-dom':
+        specifier: ^18.3.1
+        version: 18.3.1
+      '@vitejs/plugin-react-swc':
+        specifier: ^3.5.0
+        version: 3.7.1(@swc/helpers@0.5.13)(vite@5.4.11(@types/node@20.17.6))
+      eslint:
+        specifier: ^9.13.0
+        version: 9.15.0
+      eslint-plugin-react-hooks:
+        specifier: ^5.0.0
+        version: 5.0.0(eslint@9.15.0)
+      eslint-plugin-react-refresh:
+        specifier: ^0.4.14
+        version: 0.4.14(eslint@9.15.0)
+      globals:
+        specifier: ^15.11.0
+        version: 15.12.0
+      typescript:
+        specifier: ~5.6.2
+        version: 5.6.3
+      typescript-eslint:
+        specifier: ^8.11.0
+        version: 8.14.0(eslint@9.15.0)(typescript@5.6.3)
+      vite:
+        specifier: ^5.4.10
+        version: 5.4.11(@types/node@20.17.6)
+
+  apps/26380-19rc0:
+    dependencies:
+      react:
+        specifier: 19.0.0-rc.0
+        version: 19.0.0-rc.0
+      react-dom:
+        specifier: 19.0.0-rc.0
+        version: 19.0.0-rc.0(react@19.0.0-rc.0)
+    devDependencies:
+      '@eslint/js':
+        specifier: ^9.13.0
+        version: 9.15.0
+      '@types/react':
+        specifier: npm:types-react@rc
+        version: types-react@19.0.0-rc.1
+      '@types/react-dom':
+        specifier: npm:types-react-dom@rc
+        version: types-react-dom@19.0.0-rc.1
+      '@vitejs/plugin-react-swc':
+        specifier: ^3.5.0
+        version: 3.7.1(@swc/helpers@0.5.13)(vite@5.4.11(@types/node@20.17.6))
+      eslint:
+        specifier: ^9.13.0
+        version: 9.15.0
+      eslint-plugin-react-hooks:
+        specifier: ^5.0.0
+        version: 5.0.0(eslint@9.15.0)
+      eslint-plugin-react-refresh:
+        specifier: ^0.4.14
+        version: 0.4.14(eslint@9.15.0)
+      globals:
+        specifier: ^15.11.0
+        version: 15.12.0
+      typescript:
+        specifier: ~5.6.2
+        version: 5.6.3
+      typescript-eslint:
+        specifier: ^8.11.0
+        version: 8.14.0(eslint@9.15.0)(typescript@5.6.3)
+      vite:
+        specifier: ^5.4.10
+        version: 5.4.11(@types/node@20.17.6)
+
+  apps/26380-19rc1:
+    dependencies:
+      react:
+        specifier: 19.0.0-rc.1
+        version: 19.0.0-rc.1
+      react-dom:
+        specifier: 19.0.0-rc.1
+        version: 19.0.0-rc.1(react@19.0.0-rc.1)
+    devDependencies:
+      '@eslint/js':
+        specifier: ^9.13.0
+        version: 9.15.0
+      '@types/react':
+        specifier: npm:types-react@rc
+        version: types-react@19.0.0-rc.1
+      '@types/react-dom':
+        specifier: npm:types-react-dom@rc
+        version: types-react-dom@19.0.0-rc.1
+      '@vitejs/plugin-react-swc':
+        specifier: ^3.5.0
+        version: 3.7.1(@swc/helpers@0.5.13)(vite@5.4.11(@types/node@20.17.6))
+      eslint:
+        specifier: ^9.13.0
+        version: 9.15.0
+      eslint-plugin-react-hooks:
+        specifier: ^5.0.0
+        version: 5.0.0(eslint@9.15.0)
+      eslint-plugin-react-refresh:
+        specifier: ^0.4.14
+        version: 0.4.14(eslint@9.15.0)
+      globals:
+        specifier: ^15.11.0
+        version: 15.12.0
+      typescript:
+        specifier: ~5.6.2
+        version: 5.6.3
+      typescript-eslint:
+        specifier: ^8.11.0
+        version: 8.14.0(eslint@9.15.0)(typescript@5.6.3)
+      vite:
+        specifier: ^5.4.10
+        version: 5.4.11(@types/node@20.17.6)
+
+  apps/26380-rc0:
+    dependencies:
+      react:
+        specifier: ^18.3.1
+        version: 18.3.1
+      react-dom:
+        specifier: ^18.3.1
+        version: 18.3.1(react@18.3.1)
+    devDependencies:
+      '@eslint/js':
+        specifier: ^9.13.0
+        version: 9.15.0
+      '@types/react':
+        specifier: npm:types-react@rc
+        version: types-react@19.0.0-rc.1
+      '@types/react-dom':
+        specifier: npm:types-react-dom@rc
+        version: types-react-dom@19.0.0-rc.1
+      '@vitejs/plugin-react-swc':
+        specifier: ^3.5.0
+        version: 3.7.1(@swc/helpers@0.5.13)(vite@5.4.11(@types/node@20.17.6))
+      eslint:
+        specifier: ^9.13.0
+        version: 9.15.0
+      eslint-plugin-react-hooks:
+        specifier: ^5.0.0
+        version: 5.0.0(eslint@9.15.0)
+      eslint-plugin-react-refresh:
+        specifier: ^0.4.14
+        version: 0.4.14(eslint@9.15.0)
+      globals:
+        specifier: ^15.11.0
+        version: 15.12.0
+      typescript:
+        specifier: ~5.6.2
+        version: 5.6.3
+      typescript-eslint:
+        specifier: ^8.11.0
+        version: 8.14.0(eslint@9.15.0)(typescript@5.6.3)
+      vite:
+        specifier: ^5.4.10
+        version: 5.4.11(@types/node@20.17.6)
+
+  apps/26380-rc1:
+    dependencies:
+      react:
+        specifier: ^18.3.1
+        version: 18.3.1
+      react-dom:
+        specifier: ^18.3.1
+        version: 18.3.1(react@18.3.1)
+    devDependencies:
+      '@eslint/js':
+        specifier: ^9.13.0
+        version: 9.15.0
+      '@types/react':
+        specifier: npm:types-react@rc
+        version: types-react@19.0.0-rc.1
+      '@types/react-dom':
+        specifier: npm:types-react-dom@rc
+        version: types-react-dom@19.0.0-rc.1
+      '@vitejs/plugin-react-swc':
+        specifier: ^3.5.0
+        version: 3.7.1(@swc/helpers@0.5.13)(vite@5.4.11(@types/node@20.17.6))
+      eslint:
+        specifier: ^9.13.0
+        version: 9.15.0
+      eslint-plugin-react-hooks:
+        specifier: ^5.0.0
+        version: 5.0.0(eslint@9.15.0)
+      eslint-plugin-react-refresh:
+        specifier: ^0.4.14
+        version: 0.4.14(eslint@9.15.0)
+      globals:
+        specifier: ^15.11.0
+        version: 15.12.0
+      typescript:
+        specifier: ~5.6.2
+        version: 5.6.3
+      typescript-eslint:
+        specifier: ^8.11.0
+        version: 8.14.0(eslint@9.15.0)(typescript@5.6.3)
+      vite:
+        specifier: ^5.4.10
+        version: 5.4.11(@types/node@20.17.6)
+
   apps/react-18:
     dependencies:
       react:
